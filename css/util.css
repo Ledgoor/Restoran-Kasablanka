@@ -3126,6 +3126,19 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 	letter-spacing: 6px;
 }
 
+.tit12 {
+	font-family: Poppins;
+	font-weight: 700;
+	font-size: 25px;
+	color: #f3f3f3;
+	text-transform: uppercase;
+	letter-spacing: 6px;
+}
+
+.logo_hover:hover {
+	color: #dba001;
+} 
+
 /*[ Text ]
 -----------------------------------------------------------
 */
